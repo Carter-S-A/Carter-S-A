@@ -27,8 +27,8 @@ Welcome to my GitHub! I'm a passionate **Software Engineer** focused on building
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarterDev&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarterDev&theme=radical" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Carter-S-A&show_icons=true&theme=radical" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carter-S-A&theme=radical" width="49%" />
 </p>
 
 ---
